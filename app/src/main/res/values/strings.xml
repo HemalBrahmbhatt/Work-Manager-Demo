@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Work-Manager-Demo</string>
+    <string name="start">Start</string>
+    <string name="progress">Progress</string>
+    <string name="number">Number</string>
+    <string name="upload">Upload</string>
+    <string name="num_100">100%</string>
+</resources>
